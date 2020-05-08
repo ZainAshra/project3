@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
+
+
+.fbimg{
+    cursor: pointer;
+   height: 24px;
+   margin-right: 10px;
+}
+.donationbtn{
+    cursor: pointer;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+}
+.row{
+    
+    
+    align-items: center;
+}
+.smallimg{
+    height: 100px;
+}
+.xy{
+    margin-top: 60px;
+    margin-bottom: 80px;
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+}
+.green{
+    font-size: large;
+    color: chartreuse;
+}
+.nvbar{
+    height: 80px;
+    padding-left: 80px;
+    
+
+
+}
+.seconddiv{
+    background-color: whitesmoke;
+}
+.sliderimgs{
+    height: 500px;
+}
+.a{
+    padding: 4px;
+    margin-left: 5px;
+
+}
+.WHAT{
+    font-size: 40px;
+    font-weight: 10px;
+    text-align: center;
+}
+.fifthdiv{
+    align-items: center;
+    text-align: center;
+    padding-top: 8px;
+    border: 5px solid whitesmoke;
+    background-color: whitesmoke;
+}
+.y{
+    box-shadow: 5px red;
+    background-color:white;
+    align-items: center;
+   padding: 0px 5px;
+    border: 10px solid whitesmoke;
+}
+.btn{
+    cursor: pointer;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 200px;
+    width: 125px;
+
+}
+.logo{
+    cursor: pointer;
+    height:100px;
+}
+.middlelogo{
+    height: 60px;
+    width: 80px;
+    margin-bottom: 15px;
+    margin-top: -10px;
+}
+.logo2{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+   
+}
+.p2{
+    font-size: 50px;
+    font-style:italic;
+}
+
+.z1{
+display:inline-block ;
+border: 2px solid black;
+}
+
+.z2{
+    border:2px solid red;
+   display: inline-block;
+    
+  
+}
+
+.topbtn{
+    height: 30px;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+   
+}
+.topbtn:hover{
+    cursor: pointer;
+}
+#mybtn{
+    height: 30px;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+   
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+
+    
+}

@@ -1,0 +1,106 @@
+.firstdiv{
+    background-color: royalblue;
+    height: 50px;
+    padding-top: 2px;
+}
+.fbimg{
+    height: 30px;
+    position: absolute;
+    left: 100px;
+    top: 18px;
+}
+.twimg{
+    height: 30px;
+    position: absolute;
+    left: 150px;
+    top: 18px;
+}
+.instaimg{
+    height: 30px;
+    position: absolute;
+    left: 200px;
+    top: 18px;
+}
+.utubeimg{
+    height: 30px;
+    position: absolute;
+    left: 250px;
+    top: 18px;
+}
+.whatsappimg{
+    height: 30px;
+    position: absolute;
+    left: 300px;
+    top: 18px;
+}
+.para{
+    
+    color: white;
+   position: absolute;
+   
+    
+    
+}
+.ukbtn{
+    color:darkgray;
+    position: absolute;
+    top: 22px;
+    right:300px;
+     height: 25px;
+       background-color: whitesmoke;
+       
+}
+.donatebtn{
+    color:darkgray;
+    position: absolute;
+    top: 22px;
+    right:195px;
+    height: 25px;
+       background-color:whitesmoke;
+
+}
+.resultbtn{
+    color:darkgray;
+    position: absolute;
+    top: 22px;
+    right:90px;
+    height: 25px;
+       background-color:whitesmoke;
+
+}
+.seconddiv{
+    height: 70px;
+    background-color:yellow;
+}
+.sylanilogo{
+    height: 100px;
+    padding-left: 50px;
+    padding-top: none;
+    margin-bottom: -35px;
+    
+}
+ul ,li {
+    
+    list-style:none;
+    border-radius: 5px;
+    background-color: aqua;
+margin: 5px;
+padding: 10px;  
+display: inline-block;
+}
+
+.thirddiv{
+    text-align: center;
+}
+
+.bigimg{
+ width: 950px;
+ height: 450px;
+   
+}
+.fourthdiv{
+    background-color:red;
+}
+.row{
+    background-color: royalblue;
+}

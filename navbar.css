@@ -1,0 +1,32 @@
+
+.hv  :hover{
+  
+  color: red;
+    background-color: royalblue;
+    transition: 0.8s;
+    border-radius: 15px;
+    
+}
+.hv {
+  display: block;
+   border-radius: 14px;
+   margin-right: 8px;
+   
+
+   
+}
+.home{
+    background-color: royalblue;
+    border-radius: 10px;
+    width: 70px;
+    text-align: center;
+}
+
+.noborderdropdown{
+    border: white;
+}
+.img1{
+    height: 80px;
+   margin-right: 50px;
+   width: ;
+}
